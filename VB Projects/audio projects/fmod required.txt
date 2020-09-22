@@ -1,0 +1,4 @@
+these projects require the relatively small fmod.dll
+in c:\windows\system
+
+more information can be found at www.fmod.com
